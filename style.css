@@ -73,7 +73,7 @@ body {
 #wrapper2 p{
     margin: 150px 0;
 }
-audio{
+#audio{
     opacity: 0;
 }
 @keyframes opacity{
